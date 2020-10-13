@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hello! My name is Josh 👋
 
-<!--
-**thatnerdjosh/thatnerdjosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I'm an expat living in Mueang Uthai Thani, Thailand (เมืองอุทัยธานี)
+ - 🎉 **Hobbies**: Eating 🍣, playing 🎾, and using the 💻
+ - 🎶 **Music**: Classical, Hip-Hop (clean), R&B, La musique populaire française, etc.
+ - 🌍 **Languages**: English 🇺🇸 (Native), Français 🇫🇷 (Conversational), Español 🇪🇸 (Beginner-Intermediate), and ไทย 🇹🇭 (Beginner)
+ 
+## I enjoy solving problems
+  - 🔭 I currently use daily: `.py`, `.go`, `.rb`, `.json`, `.ts`, `.scss`, `.yml`, `.sql`
+  - 🌱 I’m currently learning Java, Scala, BigCommerce
+  - 🤔 I’m looking for help with [Sowba Microservice Framework](https://github.com/oukone/sowba) and [FastCRUD](https://github.com/oukone/fastcrud) development
+  
+## Connect with me
+  - 💬 Ask me about anything you need help with
+  - 📫 How to reach me: josh@omnidapps.com
+  - 😄 Pronouns: He/Him
